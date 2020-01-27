@@ -2,3 +2,12 @@
 composer.phar
 composer.lock
 .DS_Store
+
+/tests
+.coveralls.yml
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+phpunit.xml
